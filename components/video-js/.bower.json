@@ -1,0 +1,19 @@
+{
+  "name": "video-js",
+  "private": true,
+  "dependencies": {
+    "polymer": "Polymer/polymer#master",
+    "videojs": "~4.5.1"
+  },
+  "homepage": "https://github.com/addyosmani/video-js",
+  "_release": "0208ec3d5a",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "0208ec3d5a6d62391439f673ab71b3f0170d630c"
+  },
+  "_source": "git://github.com/addyosmani/video-js.git",
+  "_target": "master",
+  "_originalSource": "addyosmani/video-js",
+  "_direct": true
+}
